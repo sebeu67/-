@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#search-input {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.place-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.place-card h3 {
+    margin: 0 0 10px;
+}
+
+.place-card p {
+    margin: 5px 0;
+}
